@@ -245,7 +245,7 @@ h1{
     font-family: poppins;
     font-weight: 600;
     text-align: right;
-    color: white;
+    color: #f89920;
 }
 .about-us-txt{
     font-size: 2rem;
@@ -450,7 +450,7 @@ h1{
     color: green;
    }
    .topic-CGN{
-    color: green;
+    color: white;
     font-family: poppins;
     font-weight: 600;
     font-size: 1.5rem;
@@ -483,13 +483,14 @@ h1{
     font-size: 1.1rem;
     font-family: poppins;
     font-style: normal;
-    background-color: #8d9fa1;
+    background-color: green;
+    color: white;
    }
 .consult-txt{
     text-align: center;
     font-size: 1.6rem;
     font-weight: 700;
-    color: green; 
+    color: white; 
 }
 .mission-span{
     font-size: 1.2rem;
@@ -548,13 +549,13 @@ h1{
        justify-content: center;
        flex-direction: column;
        padding-top: 1.3rem;
-       background-color: #8d9fa1;
+       background-color: green;
     
     }
     .loxal-content{
         flex: 1;
         /* border: green solid 2px; */
-   background-color: #8d9fa1;
+   background-color: green;
         display: flex;
        align-items: center;
        justify-content: center;
@@ -573,7 +574,7 @@ h1{
        flex-direction: column;
        margin: 0;
         padding-top: 1rem;
-           background-color: #8d9fa1;
+           background-color: green;
     }
     .consultancy{
         flex: 1;
@@ -584,7 +585,7 @@ h1{
        flex-direction: column;
        margin: 0;
        padding-top: 1rem;
-         background-color: #8d9fa1;
+         background-color: green;
     }
     .strong-txt{
         font-family: poppins;
@@ -674,8 +675,8 @@ h1{
     font-style: bold;
     font-weight: 500;
     font-size: 1rem;
-    background-color: green;
-    color: white;
+    background-color: white;
+    color: green;
 
 }
 .btn:hover{
@@ -725,8 +726,8 @@ h1{
   }
   .content-text{
     flex: 1;
-    border: 2px #8d9fa1 solid;
-    background-color: #8d9fa1;
+    background-color: green;
+    color: white;
     padding: 20px;
   }
   .content-img{
@@ -763,8 +764,8 @@ h1{
     font-style: bold;
     font-weight: 500;
     font-size: 1rem;
-    background-color: green;
-    color: white;
+    background-color: white;
+    color: green;
   }
   .btn-project-btn{
     padding-top: 25px;
