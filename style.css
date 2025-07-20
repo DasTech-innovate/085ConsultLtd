@@ -539,7 +539,7 @@ h1{
     .card-1{
         display: flex;
         column-gap: 1.2rem;
-      
+        color: white;      
     }
     .CGN-transition{
         flex: 1;
@@ -564,6 +564,7 @@ h1{
     .card-2{
         display: flex;
         column-gap: 1.2rem;
+        color: white;
     }
     .heritage{
         flex: 1;
