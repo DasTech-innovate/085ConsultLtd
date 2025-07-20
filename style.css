@@ -132,21 +132,27 @@ h1{
 }
 .head-1{
     text-align: center;
-    margin: 0.1rem;
-     font-family: 'poppins', sans-serif;
      font-weight: 900;
-    /* font-weight: ; */
+     font-family: Arial;
     font-style: normal;
-    font-size: 3.2rem;
+    font-size: 3.52rem;
     color: #075114;
 }
 .sub-head-1{
-    font-family: poppins;
-    font-size: 3rem;
-    font-weight: 600;
-    color: #63777c;
+    font-family: Arial;
+    font-size: 2.4rem;
+    font-weight: 900;
+    color: #075114;
     font-style: bolder;
+    padding: 0;
+    margin: 0;
 }
+/* .sub-txt{
+    background-color: aqua;
+    padding: 0;
+    margin: 0;
+
+} */
 .story{
   font-family: poppins;
   font-weight: 400;
@@ -176,13 +182,14 @@ h1{
      padding: 20px;
     border: none;
     border-radius: 0.2rem;
-    background: linear-gradient(to right, #2eb1a6, #d0d2c7) ;
+    background: linear-gradient(to right, green) ;
     font-family: poppins;
     font-size: 1rem;
     font-weight: 450px;
+    color: white;
 }
 .btn-cta:hover, .btn-cta-2:hover{
-    background: linear-gradient(to right, #d0d2c7, #2eb1a6) ;
+    background: linear-gradient(lightgreen, green) ;
     border-bottom: 2px solid #a1e0e0;
     box-shadow: 0 5px 10px #a1e0e0;
     cursor: pointer;
@@ -245,7 +252,7 @@ h1{
     font-family: poppins;
     font-weight: 700;
     font-style: bold;
-     color: #f1942e;
+     color: green;
 }
 .txt-side{
  flex: 1;
@@ -440,7 +447,14 @@ h1{
     /* font-weight: ; */
     font-style: normal;
     font-size: 1.7rem;
-    color: #a1e0e0;
+    color: green;
+   }
+   .topic-CGN{
+    color: green;
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 1.5rem;
+    text-align: center;
    }
    .hero-txt-about{
     font-size: 5rem;
@@ -475,7 +489,7 @@ h1{
     text-align: center;
     font-size: 1.6rem;
     font-weight: 700;
-    color: white; 
+    color: green; 
 }
 .mission-span{
     font-size: 1.2rem;
@@ -660,6 +674,8 @@ h1{
     font-style: bold;
     font-weight: 500;
     font-size: 1rem;
+    background-color: green;
+    color: white;
 
 }
 .btn:hover{
@@ -675,7 +691,7 @@ h1{
    font-size: 1.5rem;
    font-weight: 600;
    text-align: center;
-   color: #2eb1a6;
+   color: green;
    margin-bottom: 2rem;
    display: flex;
    align-self: center;
@@ -747,6 +763,8 @@ h1{
     font-style: bold;
     font-weight: 500;
     font-size: 1rem;
+    background-color: green;
+    color: white;
   }
   .btn-project-btn{
     padding-top: 25px;
